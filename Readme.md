@@ -1,6 +1,6 @@
 # Project
 
-The purpose of this work test is to create a simplified view of a commerce interface. It is a project which is an application running on the JVM that manages 
+This project is to create a simplified view of a commerce interface. It is a project which is an application running on the JVM that manages 
 accounts, products and stores. Tis project is also run as a standalone server.
 
 ## Project Scope
